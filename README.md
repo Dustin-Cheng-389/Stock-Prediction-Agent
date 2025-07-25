@@ -28,11 +28,4 @@ This project is an AI-powered multi-agent system that performs stock analysis us
 | `reporter`      | Combines news and math insights into a summary and adjusts predictions.         |
 | `evaluate_prediction` | Compares predicted vs actual prices and visualizes the results.            |
 
----
 
-## 🛠️ Setup Instructions
-
-### 1. Clone the Repo
-```bash
-git clone https://github.com/your-username/Stock-Prediction-Agent.git
-cd Stock-Prediction-Agent
